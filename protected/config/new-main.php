@@ -71,10 +71,10 @@ return array(
 				
 		'db'=>array(	        
 		    'class'            => 'CDbConnection' ,
-			'connectionString' => 'mysql:host=50.87.249.195;dbname=behelpfu_Reezly',
+			'connectionString' => 'mysql:host=localhost;dbname=reezly',
 			'emulatePrepare'   => true,
-			'username'         => 'behelpfu_Reezly',
-			'password'         => 'perfectwater578$',
+			'username'         => 'root',
+			'password'         => 'adam578$',
 			'charset'          => 'utf8',
 			'tablePrefix'      => 'mt_',
 	    ),
